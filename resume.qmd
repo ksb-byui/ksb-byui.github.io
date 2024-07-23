@@ -13,12 +13,11 @@ Computer/Data Scientist, Farmer, Student at BYU-I.
 
 ## Currently
 
-Scratching my head at path errors.
+Pursuing a B.S. ins Computer Science with a Minor in Data Science and an emphasis in Machine Learning.
 
 ### Specialized in
 
-Computer Science, Agriculture, 3D Design, Disliking [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux#:~:text=Windows%20Subsystem%20for%20Linux%20(WSL,Windows%2010%20users%20by%20default.))
-
+Computer Science, Agriculture, 3D Design.
 
 ### Research interests
 
@@ -50,9 +49,9 @@ __Brigham Young University - Idaho__
 `Idaho Entrepreneurship Competition 2023 Preliminary Finalist with Sigma Automotive Solutions`
 
 
-## Occupation
+## Occupation Experience
 
-`2000-current`
+`2006-current`
 __Bauer Farms__, Idaho
 
 - Farm Hand
@@ -67,7 +66,14 @@ __Webster's Inc.__, Idaho
  - Operator
 
 
+`2024-current`
+__Bauer Family Dental | Sleep D.D.S. L.L.C.__, Idaho
+
+- Technology Manager
+- Bookkeeper
+- Training and Onboarding
+
 
 <!-- ### Footer
 
-Last updated: May 2024 -->
+Last updated: July 2024 -->
